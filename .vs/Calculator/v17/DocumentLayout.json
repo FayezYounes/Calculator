@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpw\\source\\repos\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDBE1EF-6D77-4245-A33A-73E106EA9BB0}|Calculator\\Calculator.csproj|c:\\users\\lpw\\source\\repos\\calculator\\calculator\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EDBE1EF-6D77-4245-A33A-73E106EA9BB0}|Calculator\\Calculator.csproj|solutionrelative:calculator\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDBE1EF-6D77-4245-A33A-73E106EA9BB0}|Calculator\\Calculator.csproj|C:\\Users\\lpw\\source\\repos\\Calculator\\calculator\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDBE1EF-6D77-4245-A33A-73E106EA9BB0}|Calculator\\Calculator.csproj|solutionrelative:calculator\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\lpw\\source\\repos\\Calculator\\Calculator\\Home.cs",
+              "RelativeDocumentMoniker": "Calculator\\Home.cs",
+              "ToolTip": "C:\\Users\\lpw\\source\\repos\\Calculator\\Calculator\\Home.cs",
+              "RelativeToolTip": "Calculator\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:29:57.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lpw\\source\\repos\\Calculator\\Calculator\\Home.cs",
+              "RelativeDocumentMoniker": "Calculator\\Home.cs",
+              "ToolTip": "C:\\Users\\lpw\\source\\repos\\Calculator\\Calculator\\Home.cs [Design]",
+              "RelativeToolTip": "Calculator\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:29:43.091Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
