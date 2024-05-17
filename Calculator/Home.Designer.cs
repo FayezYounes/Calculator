@@ -225,7 +225,7 @@
             this.but_nine.Name = "but_nine";
             this.but_nine.Size = new System.Drawing.Size(75, 61);
             this.but_nine.TabIndex = 0;
-            this.but_nine.Text = "9\r\n";
+            this.but_nine.Text = "9";
             this.but_nine.UseVisualStyleBackColor = false;
             this.but_nine.Click += new System.EventHandler(this.But_Click);
             // 
