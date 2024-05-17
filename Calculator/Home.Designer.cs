@@ -394,7 +394,7 @@
             this.but_zero.Name = "but_zero";
             this.but_zero.Size = new System.Drawing.Size(75, 61);
             this.but_zero.TabIndex = 0;
-            this.but_zero.Text = "0\r\n";
+            this.but_zero.Text = "0";
             this.but_zero.UseVisualStyleBackColor = false;
             this.but_zero.Click += new System.EventHandler(this.But_Click);
             // 
